@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs
+/x64
+/opencv-demo/Debug
+/opencv-demo/x64
